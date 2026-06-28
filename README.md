@@ -22,7 +22,7 @@ Supported architectures:
 ## Installation
 
 ```bash
-go install github.com/your-username/tekton@latest
+go install github.com/devguilhermeribeiiro/tekton@latest
 ```
 
 ---
