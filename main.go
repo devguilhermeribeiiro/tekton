@@ -7,7 +7,7 @@ import (
 	"strings"
 
 	tea "github.com/charmbracelet/bubbletea"
-	"github.com/devguilhermeriberiiro/tekton/ui"
+	"github.com/devguilhermeribeiiro/tekton/ui"
 )
 
 type Layer struct {

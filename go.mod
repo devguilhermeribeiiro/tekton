@@ -1,4 +1,4 @@
-module github.com/devguilhermeriberiiro/tekton
+module github.com/devguilhermeribeiiro/tekton
 
 go 1.26.4
 
