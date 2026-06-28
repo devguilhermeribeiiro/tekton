@@ -4,7 +4,7 @@ An interactive CLI tool that scaffolds Go project folder structures based on wel
 
 ![Go](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat&logo=go&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat)
-
+![Tekton demo](./assets/screenshot.png)
 ---
 
 ## What it does
@@ -20,14 +20,6 @@ Supported architectures:
 ---
 
 ## Installation
-
-```bash
-git clone https://github.com/your-username/tekton.git
-cd tekton
-go build -o tekton .
-```
-
-Or install directly:
 
 ```bash
 go install github.com/your-username/tekton@latest
